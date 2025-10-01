@@ -1,9 +1,11 @@
-# EBAC Shoes
+# 👟 EBAC Shoes
 
-## Projeto voltado a aprendizagem
+> Uma loja online de calçados esportivos
 
-<p align="center">
-  <img alt="Preview da pagina Games Shop" src="./images/preview.png" width="100%">
-</p>
+## 📋 Sobre o Projeto
 
-### Link do Projeto - (https://ebac-shoes-navy.vercel.app/)
+O **EBAC Shoes** é um projeto web desenvolvido como parte do aprendizado em desenvolvimento front-end. Trata-se de uma loja virtual de calçados que oferece uma interface moderna e intuitiva para visualização e seleção de produtos.
+
+## 🚀 Demonstração
+
+### 🔗 [Visualizar Projeto Online](https://ebac-shoes-navy.vercel.app/)
